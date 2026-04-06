@@ -8,3 +8,4 @@ SaaS revenue analytics pipeline built with PostgreSQL and visualized in Tableau.
 [View project](01_gaming_revenue_metrics/)
 
 ### 02 Apple Music Engagement
+[View project](02_apple_music_engagement/)
