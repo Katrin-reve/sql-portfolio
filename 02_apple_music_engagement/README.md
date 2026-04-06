@@ -6,7 +6,7 @@ recommendation algorithm by analyzing user interactions with recommended artists
 **Data:** 2 tables — "user_streams" (streaming history) and 
 "artist_recommendations" (recommendation log with dates)
 
-**Stack:** PostgreSQL · Interview Master platform
+**Stack:** SQLite · Interview Master platform
 
 **SQL covers:**
 - COUNT DISTINCT with date-filtered JOIN conditions
