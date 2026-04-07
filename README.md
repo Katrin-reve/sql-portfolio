@@ -12,4 +12,5 @@ Multi-channel markeing analysis using Gap-and-island logic detect campaign trend
 [View project](02_ads_performance_analysis/)
 
 ### 03 Apple Music Engagement
+User interactions with recommended artists analysis to evaluate the effectiveness of Apple Music's artist recommendation algorithm.
 [View project](03_apple_music_engagement/)
